@@ -1,3 +1,4 @@
-Comprar una nevera nueva,2013-06-01 17:41:41 +0200,2013-06-01 18:05:45 +0200
+Comprar una nevera nueva,2013-06-01 17:41:41 +0200,2013-06-03 21:19:09 +0200
 Instalar la batería de repuesto,2013-06-01 17:41:57 +0200,
 Tirar al albanil por la borda,2013-06-01 17:52:48 +0200,
+Finiquitar este ejemplo,2013-06-03 21:05:09 +0200,2013-06-03 21:18:58 +0200
